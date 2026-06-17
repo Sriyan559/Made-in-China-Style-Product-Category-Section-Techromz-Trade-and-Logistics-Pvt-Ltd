@@ -102,7 +102,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to inspect
 
 ---
 
-## 📦 How to Build for Production
+##  How to Build for Production
 
 To compile the project and build the production bundle:
 ```bash
@@ -115,3 +115,14 @@ npm run start
 ```
 
 ---
+
+##  Vercel Deployment Instructions
+
+The application is fully compatible with Vercel out of the box. Follow these instructions to deploy:Live demo link-https://made-in-china-style-product-categor.vercel.app/
+
+##  Project Update
+
+This project has been updated and deployed successfully on Vercel.
+
+### Deployment:
+The latest version is live on Vercel and automatically updates with each push.
