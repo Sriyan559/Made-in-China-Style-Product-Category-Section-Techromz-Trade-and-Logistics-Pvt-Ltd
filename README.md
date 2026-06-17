@@ -9,7 +9,7 @@ This project is prepared for submission as a Software Engineer Trainee technical
 
 ---
 
-## 🛠️ Technology Stack & Libraries
+##  Technology Stack & Libraries
 
 - **Framework:** [Next.js 15 (App Router)](https://nextjs.org/)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
@@ -20,7 +20,7 @@ This project is prepared for submission as a Software Engineer Trainee technical
 
 ---
 
-## 📂 Project Folder Structure
+##  Project Folder Structure
 
 ```
 d:/MY_PROJECT/Made-in-China Style Product Category Section/
@@ -49,7 +49,7 @@ d:/MY_PROJECT/Made-in-China Style Product Category Section/
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 
 1. **Modern B2B Design & Layout:** Clean, structured corporate look matching the Made-in-China.com layout system.
 2. **Category Grid:** Responsive grid container featuring 12 customized trade segments:
@@ -85,7 +85,7 @@ d:/MY_PROJECT/Made-in-China Style Product Category Section/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### 1. Install Dependencies
 Run the command below in the project directory to install all required packages:
@@ -115,33 +115,3 @@ npm run start
 ```
 
 ---
-
-## ☁️ Vercel Deployment Instructions
-
-The application is fully compatible with Vercel out of the box. Follow these instructions to deploy:
-
-### Option A: Using the Vercel Dashboard (Recommended)
-1. Commit and push the project code to a git repository (GitHub, GitLab, or Bitbucket).
-2. Go to the [Vercel Dashboard](https://vercel.com/new).
-3. Select and import the repository.
-4. Set the Framework Preset to **Next.js**.
-5. Click **Deploy**. Vercel will automatically run `npm run build` and provision your serverless deployment.
-
-### Option B: Using Vercel CLI
-1. Install the Vercel CLI globally if you haven't already:
-   ```bash
-   npm install -g vercel
-   ```
-2. Log in to your Vercel account:
-   ```bash
-   vercel login
-   ```
-3. Run the following command in the project root:
-   ```bash
-   vercel
-   ```
-4. Follow the setup prompts. To deploy to production, run:
-   ```bash
-   vercel --prod
-   ```
->>>>>>> aaca97f (Made-in-China Style Product Category Section  Development)
